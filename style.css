@@ -146,8 +146,8 @@ input[name=sexe] {
 
 /*------------------Blocs div page portfolio------------------------*/
 main{
-	float: center; /* centre le contenu */
-    margin-bottom: 30px; /* définit une marge de fond de 30px */
+	float: center;
+    margin-bottom: 30px;
 }
 
 /* Box */
@@ -207,7 +207,7 @@ main{
 }
 
 .texte-portfolio{
-	margin-bottom:50px; /* définit une marge de fond */
+	margin-bottom:50px;
 }
 .imageaccueil {
 	float: left;
