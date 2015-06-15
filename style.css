@@ -5,24 +5,24 @@ text-decoration: underline;
 font-weight: bold;
 font-style: italic;
 text-align: left;
-font-size: 45px;
+font-size: 2.813em; /*45/16*/
 font-family: Arial;
 }
 
 
 h2	{
 	text-decoration: underline;
-	font-size: 40px;
+	font-size: 2.500em; /*40/16*/
 }
 
 h3{
 	text-decoration: underline;
-	font-size: 30px;
+	font-size: 1.875em; /*30/16*/
 }
 
 h4, h5, h6, ol  {
 	text-decoration: underline;
-	font-size: 50px;
+	font-size: 3.125em; /*50/16*/
 }
 
 body {
@@ -135,7 +135,7 @@ margin-left: 450px
 
 .sexe{
     text-decoration: none;
-    font-size: 13pt;
+    font-size: 0.813em; /*13/16*/
 	color: black;
 	font-weight: bold;
 }
@@ -166,7 +166,7 @@ main{
 	left: 640px;
 	background-color: white;
 	padding: 20px;
-	font-size:15px;
+	font-size:0.938em; /*15/16*/
 	font-weight: bold;
 	font-style: italic;
 }
@@ -190,7 +190,7 @@ main{
 	width: 300px;
 	height: 400px;
 	margin-left: 20px;
-	font-size: 15px;
+	font-size: 0.938em; /*15/16*/
 }
 #portfolio2 {
 	margin-bottom: 46px;
@@ -203,7 +203,7 @@ main{
 	width: 300px;
 	height: 400px;
 	margin-right: 20px;
-	font-size: 15px;
+	font-size: 0.938em; /*15/16*/
 }
 
 .texte-portfolio{
